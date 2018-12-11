@@ -1,0 +1,17 @@
+body {
+  color: #555753;
+  background: /img/Bath and body works.jpg;
+	margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+h1 {
+  font size: 20px;
+}
+p {
+  font family: sans-serif;
+}
+img {
+  width: 30px;
+  height: 20px;
+}
