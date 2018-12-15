@@ -1,6 +1,12 @@
-html{
-    background: /img/Bath and body works.jpg;
+container {
+  margin-left: 30;
+  margin-right: 30;
+  margin-top: 30;
+  margin-bottom: 30;
+  background-color: blue
+
 }
+
 body {
   color: #555753;
 
@@ -13,12 +19,14 @@ h1.title {
   font-weight: bold;
   text-align: center;
   text-decoration: underline;
+  font
 
 }
 p {
   font-family: serif;
   font-style: normal;
   font-size: 20px;
+
  }
  li{
    font-size: 20px;
@@ -26,4 +34,9 @@ p {
 img {
   width: 30px;
   height: 20px;
+}
+
+html{
+  background-color: #111110;
+
 }
