@@ -1,9 +1,10 @@
 .container {
+  width: auto;
   margin-left: 30;
   margin-right: 30;
   margin-top: 30;
   margin-bottom: 30;
-  background-color: blue
+  background-color: white;
 
 }
 
@@ -19,9 +20,9 @@ h1.title {
   font-weight: bold;
   text-align: center;
   text-decoration: underline;
-  font
-
+  
 }
+
 p {
   font-family: serif;
   font-style: normal;
